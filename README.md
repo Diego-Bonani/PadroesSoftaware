@@ -1,6 +1,6 @@
 # PadroesSoftaware
 
-UC02 – Fazer Login
+# UC02 – Fazer Login
 Ator: Usuário
 
 Descrição: Permite que um usuário existente acesse sua conta.
@@ -24,7 +24,7 @@ Pós Condição:
 
 
 
-UC06 – Finalizar Compra
+# UC06 – Finalizar Compra
 Ator: Usuário
 
 Descrição: Realiza o processo de checkout.
@@ -47,7 +47,7 @@ Fluxo Alternativo:
 
   4a. Pagamento falha → Sistema informa erro e permite nova tentativa.
 
-UC08 – Acompanhar Pedido
+# UC08 – Acompanhar Pedido
 Ator: Usuário
 
 Descrição: Permite ao usuário acompanhar o status do pedido.
