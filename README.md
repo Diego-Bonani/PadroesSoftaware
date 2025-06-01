@@ -47,6 +47,9 @@ Fluxo Alternativo:
 
   4a. Pagamento falha → Sistema informa erro e permite nova tentativa.
 
+Pós Condição: 
+  Compra é realizada, sistema realiza alterações necessarias e redireciona usuario a pagina meus pedidos.
+
 # UC08 – Acompanhar Pedido
 Ator: Usuário
 
